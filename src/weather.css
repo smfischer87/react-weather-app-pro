@@ -5,6 +5,11 @@
   margin: 30px auto;
   max-width: 600px;
   border-radius: 4px;
+  background: linear-gradient(
+    68.6deg,
+    rgb(252, 165, 241) 1.8%,
+    rgb(181, 255, 255) 100.5%
+  );
 }
 
 .weather h1 {
@@ -50,6 +55,5 @@
   font-weight: 400;
   position: relative;
   top: -32px;
-  margin-left: 5px;
   line-height: 1;
 }
